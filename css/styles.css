@@ -12,6 +12,10 @@ h1 {
     color: #3a3a3a; 
 }
 
+.center-index {
+    margin-left: 1em;
+}
+
 .center-list, a {
     display: flex;
     flex-direction: column;
